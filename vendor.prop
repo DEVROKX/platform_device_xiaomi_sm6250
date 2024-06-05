@@ -221,3 +221,6 @@ ro.soc.model=SM7125
 
 # Wi-Fi
 wifi.aware.interface=wifi-aware0
+
+# Zygote
+zygote.critical_window.minute=10
